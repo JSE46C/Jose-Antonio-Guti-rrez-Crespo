@@ -1,0 +1,5 @@
+{
+  "name": "Elevator Platform Calculator",
+  "description": "A professional tool for estimating the minimum required working height and type of lifting platform (scissor, telescopic, or articulated) based on distance, height, and obstacles.",
+  "requestFramePermissions": []
+}
