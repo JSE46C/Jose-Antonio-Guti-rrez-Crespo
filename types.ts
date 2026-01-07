@@ -1,6 +1,6 @@
 
 export enum MachineType {
-  SCISSOR = 'Tijera',
+  SCISSOR = 'Plataforma de Tijera',
   TELESCOPIC = 'Brazo Telescópico',
   ARTICULATED = 'Brazo Articulado',
   NONE = 'No se encontró solución viable'
